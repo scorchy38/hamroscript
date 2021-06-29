@@ -1,0 +1,16 @@
+{
+  "name": "hamroscript",
+  "version": "1.0.0",
+  "description": "Script for image download and upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubh Saraswat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.6.8",
+    "request": "^2.88.2"
+  }
+}
